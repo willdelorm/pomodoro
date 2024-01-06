@@ -10,7 +10,7 @@ Improve your workflow with this Pomodoro timer. Work for 25 minutes, take a shor
 
 ## Usage
 
-Access the Pomodoro Timer here: [Simple JavaScript Calculator](https://willdelorm.github.io/pomodoro/)
+Access the Pomodoro Timer here: [Pomodoro](https://willdelorm.github.io/pomodoro/)
 
 Get comfortable, press Start and get to work!
 
