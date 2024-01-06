@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pomodoro</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main id="main">
+      <header class="header">
+        <div class="btn-group">
+          <button class="btn btn-times active" value="25">25 min</button>
+          <button class="btn btn-times" value="10">10 min</button>
+          <button class="btn btn-times" value="5">5 min</button>
+        </div>
+      </header>
+      <input type="text" value="25:00" id="display" disabled />
+      <div class="footer">
+        <div class="btn-group">
+          <button class="btn btn-controls active" value="start">Start</button>
+          <button class="btn btn-controls" value="stop">Stop</button>
+          <button class="btn btn-controls" value="reset">Reset</button>
+        </div>
+      </div>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
